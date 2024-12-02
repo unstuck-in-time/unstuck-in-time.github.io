@@ -70,10 +70,10 @@ params:
   socialIcons:
     - name: Substack
       title: Substack blog
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://unstuckntime.substack.com/"
     - name: Medium
       title: Medium blog
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://medium.com/@unstuck-in-time"
 
   editPost:
     URL: "https://github.com/unstuck-in-time/unstuck-in-time.github.io/tree/main/content"
