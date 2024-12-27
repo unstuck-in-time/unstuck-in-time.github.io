@@ -6,6 +6,10 @@ date: 2024-12-25
 tags:
   - about
 weight: 1
+cover:
+  image: images/philosopher.png
+  caption: "philosopher"
+  alt: "philosopher"
 ---
 Perpetual overthinking through cognitive science and philosophy.
 # Why
