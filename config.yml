@@ -60,7 +60,7 @@ params:
   tocOpen: true
   comments: true
   showWordCount: true
-  images: ["images/pipe.jpg"]
+  images: ["images/pipe.jpg", "images/philosopher.png"]
 
 
   homeInfoParams:
