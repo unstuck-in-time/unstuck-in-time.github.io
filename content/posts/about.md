@@ -41,7 +41,7 @@ Through my research process, I will try my best to avoid one of the qualities I 
 You might wonder how I choose what to write about. I explore questions that inspire me to dig deep or arguments that I feel strongly about. Typically, my topics will fall into the categories listed above. More specifically, I like to choose small piecemeal questions that reveal some deep essence of a larger question. For example, I greatly admire the symbol grounding problem elaborated by Stevan Harnad.[^3] It is a relatively simple question that gets at more fundamental questions about language, consciousness, and artificial intelligence. I find small questions to be more manageable and to lead to more convincing arguments than broad, sweeping questions like "What is the meaning of life?"
 # Who I Am
 Last and least important: who am I? I am Arthur Klein. I am an independent writer self-studying cognitive science and philosophy. Full disclosure, I am not an academic.
-# Citations and Footnotes
+# References and Notes
 [^1]: Vonnegut, K. (2005). _Slaughterhouse-five, or, The children’s crusade: A duty-dance with death_ (Dial Press trade pbk. ed). Dial Press.
 [^2]: Kurt Vonnegut is one of my favorite authors. I'm liberally interpreting what he meant by "unstuck in time." Hopefully, as you read this blog you will understand why I am using it.
 [^3]: Harnad, S. (1990). The Symbol Grounding Problem. _Physica D: Nonlinear Phenomena_, _42_(1–3), 335–346. [https://doi.org/10.1016/0167-2789(90)90087-6](https://doi.org/10.1016/0167-2789(90)90087-6)
