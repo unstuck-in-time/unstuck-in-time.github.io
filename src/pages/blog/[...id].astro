@@ -92,6 +92,18 @@ const { Content, headings } = await render(post);
         ) : null
       }
     </div>
+    <div class="animate">
+      {
+        post.data.image && (
+          <img
+            src={post.data.image}
+            alt={post.data.title}
+            class="my-10 h-full w-full rounded-md object-cover"
+            loading="lazy"
+          />
+        )
+      }
+    </div>
     {headings.length > 0 && <TableOfContents headings={headings} />}
     <article class="animate">
       <Content />

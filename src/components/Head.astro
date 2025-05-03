@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import { ClientRouter } from "astro:transitions";
+import { SITE } from "@consts";
 
 import "@fontsource/geist-sans/100.css";
 import "@fontsource/geist-sans/200.css";
@@ -29,7 +30,7 @@ interface Props {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image = "" } = Astro.props;
+const { title, description, image = SITE.DEFAULT_IMAGE } = Astro.props;
 ---
 
 <!-- Global Metadata -->

@@ -5,6 +5,7 @@ export const SITE: Site = {
   DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
   NUM_POSTS_ON_HOMEPAGE: 5,
   SOURCE: "https://github.com/unstuck-in-time/unstuck-in-time.github.io",
+  DEFAULT_IMAGE: "/philosopher.png",
 };
 
 export const HOME: Metadata = {

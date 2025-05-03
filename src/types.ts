@@ -3,6 +3,7 @@ export type Site = {
   DESCRIPTION: string;
   NUM_POSTS_ON_HOMEPAGE: number;
   SOURCE: string;
+  DEFAULT_IMAGE: string;
 };
 
 export type Metadata = {
