@@ -23,7 +23,6 @@ const blog = (await getCollection("blog"))
           <article class="space-y-4">
             <span>
               <p>A place for my essays in Cognitive Science and Philosophy.</p>
-              <p>Checkout some of the links below.</p>
             </span>
             <span class="animate">
               <ul class="not-prose flex flex-wrap gap-2">
@@ -53,8 +52,6 @@ const blog = (await getCollection("blog"))
             </span>
           </article>
         </section>
-        <TagCloud />
-
         <section class="animate space-y-6">
           <div class="flex flex-wrap items-center justify-between gap-y-2">
             <h2 class="font-semibold text-black dark:text-white">
@@ -62,6 +59,8 @@ const blog = (await getCollection("blog"))
             </h2>
             <Link href="/blog"> See all posts </Link>
           </div>
+          <TagCloud />
+
           <ul class="not-prose flex flex-col gap-4">
             {
               blog.map((post) => (
