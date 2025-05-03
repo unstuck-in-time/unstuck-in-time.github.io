@@ -23,14 +23,7 @@ const blog = (await getCollection("blog"))
           <article class="space-y-4">
             <span>
               <p>A place for my essays in Cognitive Science and Philosophy.</p>
-              <p>
-                Micro adds features like <Link href="https://pagefind.app/"
-                  >Pagefind</Link
-                > for search, <Link href="https://giscus.app">Giscus</Link> for comments,
-                and more. For a full list of changes, see this <Link
-                  href="/blog/00-micro-changelog">blog post</Link
-                >.
-              </p>
+              <p>Checkout some of the links below.</p>
             </span>
             <span class="animate">
               <ul class="not-prose flex flex-wrap gap-2">
@@ -50,10 +43,10 @@ const blog = (await getCollection("blog"))
                 }
                 <li class="line-clamp-1">
                   <Link
-                    href={`mailto:${SITE.EMAIL}`}
-                    aria-label={`Email ${SITE.TITLE}`}
+                    href={SITE.SOURCE}
+                    aria-label={`GitHub for ${SITE.TITLE}`}
                   >
-                    {SITE.EMAIL}
+                    Suggest Changes
                   </Link>
                 </li>
               </ul>

@@ -1,10 +1,10 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Astro Micro",
+  TITLE: "Unstuck In Time",
   DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
-  EMAIL: "trevortylerlee@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
+  SOURCE: "https://github.com/unstuck-in-time/unstuck-in-time.github.io",
 };
 
 export const HOME: Metadata = {
@@ -19,15 +19,11 @@ export const BLOG: Metadata = {
 
 export const SOCIALS: Socials = [
   {
-    NAME: "X (formerly Twitter)",
-    HREF: "https://twitter.com/boogerbuttcheek",
+    NAME: "Substack",
+    HREF: "https://unstuckntime.substack.com",
   },
   {
-    NAME: "GitHub",
-    HREF: "https://github.com/trevortylerlee",
-  },
-  {
-    NAME: "Website",
-    HREF: "https://trevortylerlee.com",
+    NAME: "Medium",
+    HREF: "https://medium.com/@unstuck-in-time",
   },
 ];
