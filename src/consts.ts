@@ -2,7 +2,7 @@ import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
   TITLE: "Unstuck In Time",
-  DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
+  DESCRIPTION: "Essays in philosophy and cognitive science where I overthink, argue with myself, and probably embarrass myself.",
   NUM_POSTS_ON_HOMEPAGE: 5,
   SOURCE: "https://github.com/unstuck-in-time/unstuck-in-time.github.io",
   DEFAULT_IMAGE: "/philosopher.png",
@@ -10,12 +10,12 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Micro is an accessible theme for Astro.",
+  DESCRIPTION: SITE.DESCRIPTION,
 };
 
 export const BLOG: Metadata = {
   TITLE: "Blog",
-  DESCRIPTION: "A collection of articles on topics I am passionate about.",
+  DESCRIPTION: SITE.DESCRIPTION,
 };
 
 export const SOCIALS: Socials = [

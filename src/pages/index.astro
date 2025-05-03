@@ -22,7 +22,11 @@ const blog = (await getCollection("blog"))
         <section>
           <article class="space-y-4">
             <span>
-              <p>A place for my essays in Cognitive Science and Philosophy.</p>
+              <p>{SITE.DESCRIPTION}</p>
+              <p>
+                If you care about who I am, or the goals of this blog, check out
+                my <Link href="/blog/about">about page</Link>.
+              </p>
             </span>
             <span class="animate">
               <ul class="not-prose flex flex-wrap gap-2">
