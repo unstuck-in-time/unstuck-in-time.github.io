@@ -13,9 +13,13 @@ export function formatDate(date: Date) {
   }).format(date);
 }
 
-export function readingTime(html: string) {
+export function getWordCount(html: string) {
   const textOnly = html.replace(/<[^>]+>/g, "");
-  const wordCount = textOnly.split(/\s+/).length;
+  return textOnly.split(/\s+/).length;
+}
+
+export function readingTime(html: string) {
+  const wordCount = getWordCount(html);
   const readingTimeMinutes = (wordCount / 200 + 1).toFixed();
   return `${readingTimeMinutes} min read`;
 }
