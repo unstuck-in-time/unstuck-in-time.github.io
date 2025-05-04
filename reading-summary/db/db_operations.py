@@ -49,3 +49,8 @@ def update_relevance(connection, data):
     cursor = connection.cursor()
     cursor.executemany("UPDATE Articles SET relevance = ? WHERE link = ?", data)
     connection.commit()
+
+def get_most_relevant_articles(connection, threshold):
+    cursor = connection.cursor()
+    cursor.execute(f"SELECT link, title, summary, relevance FROM Articles WHERE relevance >= ?", (threshold,))
+    return cursor.fetchall()
