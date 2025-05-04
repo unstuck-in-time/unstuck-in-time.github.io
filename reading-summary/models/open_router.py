@@ -1,8 +1,5 @@
 from langchain_openai import ChatOpenAI
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
 
 class ChatOpenRouter(ChatOpenAI):
     openai_api_base: str

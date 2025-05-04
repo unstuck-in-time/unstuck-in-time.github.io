@@ -1,20 +1,22 @@
 from langchain.output_parsers import PydanticOutputParser
 from pydantic import BaseModel, Field
+from typing import List, Annotated
 from langchain_core.prompts import PromptTemplate
 from models.open_router import ChatOpenRouter
 from datetime import datetime, timedelta
 from fetch.fetch_feeds import fetch_feed
+from models.google import get_llm
 
 class RatingResponse(BaseModel):
-    value: float = Field(..., ge=0.0, le=1.0)
+    values: list[Annotated[float, Field(ge=0.0, le=1.0)]]
 
-def rate_relevance(interests, article_title, article_summary, model_name, rating_prompt):
-    llm = ChatOpenRouter(model_name=model_name)
+def rate_relevance(interests, articles, model_name, rating_prompt):
+    llm = get_llm(model_name)
     parser = PydanticOutputParser(pydantic_object=RatingResponse)
     prompt = PromptTemplate.from_template(rating_prompt).partial(format_instructions=parser.get_format_instructions())
     chain = prompt | llm | parser
-    res = chain.invoke({'interests': interests, 'article_title': article_title, 'article_summary': article_summary})
-    return res.value
+    res = chain.invoke({'interests': interests, 'articles': articles})
+    return res.values
 
 def time_struct_to_dt(t_struct):
     if isinstance(t_struct, datetime):

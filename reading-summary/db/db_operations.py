@@ -42,5 +42,10 @@ def get_articles_to_rate(connection, days):
     cut_off = datetime.now() - timedelta(days=days)
     cut_off_timestamp = int(cut_off.timestamp())
     cursor = connection.cursor()
-    cursor.execute(f"SELECT * FROM Articles WHERE relevance IS NULL AND date > ?", (cut_off_timestamp,))
+    cursor.execute(f"SELECT link, title, summary, relevance FROM Articles WHERE relevance IS NULL AND date > ?", (cut_off_timestamp,))
     return cursor.fetchall()
+
+def update_relevance(connection, data):
+    cursor = connection.cursor()
+    cursor.executemany("UPDATE Articles SET relevance = ? WHERE link = ?", data)
+    connection.commit()
