@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Ethan subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="software-engineering" title="software-engineering">
+            <outline type="rss" text="Stack Overflow Blog" title="Stack Overflow Blog" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog/"/>
+            <outline type="rss" text="Fireship" title="Fireship" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA" htmlUrl="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"/>
+            <outline type="rss" text="Internet of Bugs" title="Internet of Bugs" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfJRkBBiPtKZyZn_3PxWaiQ" htmlUrl="https://www.youtube.com/channel/UCfJRkBBiPtKZyZn_3PxWaiQ"/>
+            <outline type="rss" text="The New Stack" title="The New Stack" xmlUrl="http://thenewstack.io/feed/" htmlUrl="https://thenewstack.io/"/>
+            <outline type="rss" text="SD Times" title="SD Times" xmlUrl="http://sdtimes.com/feed/" htmlUrl="https://sdtimes.com/"/>
+            <outline type="rss" text="TLDR tech" title="TLDR tech" xmlUrl="https://kill-the-newsletter.com/feeds/dt7jkygkiv4fpb4yl0gb.xml"/>
+        </outline>
+        <outline text="philosophy" title="philosophy">
+            <outline type="rss" text="The Brains Blog" title="The Brains Blog" xmlUrl="http://philosophyofbrains.com/feed" htmlUrl="https://philosophyofbrains.com"/>
+            <outline type="rss" text="gwern.net on reddit.com" title="gwern.net on reddit.com" xmlUrl="http://www.reddit.com/domain/gwern.net/.rss" htmlUrl="https://www.reddit.com/domain/gwern.net/"/>
+            <outline type="rss" text="Wiley: Mind &amp; Language: Table of Contents" title="Wiley: Mind &amp; Language: Table of Contents" xmlUrl="http://www3.interscience.wiley.com/rss/journal/117998130" htmlUrl="https://onlinelibrary.wiley.com/journal/14680017?af=R"/>
+            <outline type="rss" text="Jeffrey Kaplan" title="Jeffrey Kaplan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_hukbByJP7OZ3Xm2tszacQ" htmlUrl="https://www.youtube.com/channel/UC_hukbByJP7OZ3Xm2tszacQ"/>
+            <outline type="rss" text="Philosophize This!" title="Philosophize This!" xmlUrl="http://philosophizethis.libsyn.com/rss" htmlUrl="http://www.philosophizethis.org"/>
+            <outline type="rss" text="Overthink Podcast" title="Overthink Podcast" xmlUrl="https://feeds.buzzsprout.com/1455199.rss" htmlUrl="https://www.overthinkpodcast.com"/>
+            <outline type="rss" text="The Joy of Why" title="The Joy of Why" xmlUrl="https://api.quantamagazine.org/feed/the-joy-of-why" htmlUrl="https://quantamagazine.org/tag/the-joy-of-why"/>
+            <outline type="rss" text="Astral Codex Ten" title="Astral Codex Ten" xmlUrl="https://astralcodexten.substack.com/feed/" htmlUrl="https://www.astralcodexten.com"/>
+        </outline>
+        <outline text="cognitive-science" title="cognitive-science">
+            <outline type="rss" text="Theoretical Neuroscience Podcast" title="Theoretical Neuroscience Podcast" xmlUrl="https://feeds.libsyn.com/489902/rss" htmlUrl="https://www.theoreticalneuroscience.no/"/>
+            <outline type="rss" text="Artem Kirsanov" title="Artem Kirsanov" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR2uRTQ53V_egXKFflMMaaw" htmlUrl="https://www.youtube.com/channel/UCR2uRTQ53V_egXKFflMMaaw"/>
+            <outline type="rss" text="Open Encyclopedia of Cognitive Science" title="Open Encyclopedia of Cognitive Science" xmlUrl="https://oecs.mit.edu/rss.xml" htmlUrl="https://oecs.mit.edu"/>
+            <outline type="rss" text="ScienceDirect Publication: Cognition" title="ScienceDirect Publication: Cognition" xmlUrl="http://rss.sciencedirect.com/publication/science/00100277" htmlUrl="https://www.sciencedirect.com/journal/cognition"/>
+            <outline type="rss" text="Speaking of Psychology Podcast" title="Speaking of Psychology Podcast" xmlUrl="http://feeds.feedburner.com/SpeakingOfPsychology" htmlUrl="http://www.apa.org/speakingofpsychology"/>
+            <outline type="rss" text="Recommended Papers" title="Recommended Papers" xmlUrl="https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1.xml"/>
+            <outline type="rss" text="tandf: Language, Cognition and Neuroscience: Table of Contents" title="tandf: Language, Cognition and Neuroscience: Table of Contents" xmlUrl="http://www.tandfonline.com/action/showFeed?type=etoc&amp;feed=rss&amp;jc=plcp21" htmlUrl="https://www.tandfonline.com/loi/plcp21?af=R"/>
+            <outline type="rss" text="CogNation Podcast" title="CogNation Podcast" xmlUrl="https://feeds.zencastr.com/f/D1GOyYfl.rss" htmlUrl="https://cognation.fireside.fm"/>
+            <outline type="rss" text="Brain Inspired" title="Brain Inspired" xmlUrl="https://braininspired.co/feed/podcast" htmlUrl="https://braininspired.co/series/brain-inspired/"/>
+            <outline type="rss" text="tandf: Journal of Cognitive Psychology: Table of Contents" title="tandf: Journal of Cognitive Psychology: Table of Contents" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=3dg6fv&amp;ai=2m1&amp;jc=pecp21&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.tandfonline.com/loi/pecp21?ai=2m1&amp;mi=3dg6fv&amp;af=R"/>
+            <outline type="rss" text="Complexity Podcast" title="Complexity Podcast" xmlUrl="https://feeds.simplecast.com/OzDH_At2" htmlUrl="https://complexity.simplecast.com"/>
+            <outline type="rss" text="MIT Press" title="MIT Press" xmlUrl="https://kill-the-newsletter.com/feeds/38e64wkp9h1pgiw8fsk0.xml"/>
+            <outline type="rss" text="tandf: Cognition and Emotion: Table of Contents" title="tandf: Cognition and Emotion: Table of Contents" xmlUrl="http://www.tandfonline.com/action/showFeed?ui=0&amp;mi=3dg6fv&amp;ai=2a7&amp;jc=pcem20&amp;type=etoc&amp;feed=rss" htmlUrl="https://www.tandfonline.com/loi/pcem20?ai=2a7&amp;mi=3dg6fv&amp;af=R"/>
+            <outline type="rss" text="Open Mind - MIT Press" title="Open Mind - MIT Press" xmlUrl="https://direct.mit.edu/rss/site_1000019/LatestOpenIssueArticles_1000012.xml" htmlUrl="https://direct.mit.edu/opmi"/>
+            <outline type="rss" text="Trends in Cognitive Sciences" title="Trends in Cognitive Sciences" xmlUrl="http://www.cell.com/rssFeed/cognitive-sciences/rss.NewArticles.xml" htmlUrl="https://www.cell.com/archive?publicationCode=tics&amp;rss=yes"/>
+            <outline type="rss" text="Many Minds" title="Many Minds" xmlUrl="https://manyminds.libsyn.com/rss" htmlUrl="https://disi.org/manyminds/"/>
+        </outline>
+        <outline text="social-science" title="social-science">
+            <outline type="rss" text="bellingcat newsletter" title="bellingcat newsletter" xmlUrl="https://kill-the-newsletter.com/feeds/xk2b6qai8gw9m2wqfdc0.xml"/>
+        </outline>
+        <outline text="ai" title="ai">
+            <outline type="rss" text="TLDR AI RSS Feed" title="TLDR AI RSS Feed" xmlUrl="https://tldr.tech/api/rss/ai" htmlUrl="https://tldr.tech"/>
+            <outline type="rss" text="ScienceDaily - Artificial Intelligence" title="ScienceDaily - Artificial Intelligence" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+        </outline>
+    </body>
+</opml>
