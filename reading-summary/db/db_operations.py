@@ -1,0 +1,46 @@
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta
+from filter.filter_articles import get_article_date
+
+create_table_query = '''
+    CREATE TABLE IF NOT EXISTS Articles (
+        link TEXT PRIMARY KEY,
+        relevance REAL,
+        title TEXT NOT NULL,
+        summary TEXT,
+        date INTEGER
+    );
+    '''
+def create_table(connection):
+    cursor = connection.cursor()
+    cursor.execute(create_table_query)
+    connection.commit()
+
+def clean_text(text, max_article_len):
+    parsed_html = BeautifulSoup(text, 'html.parser').get_text(separator=' ', strip=True)
+    sanitized_text = parsed_html.encode('ascii', errors='ignore').decode('ascii')
+    return sanitized_text[:max_article_len]
+
+def insert_articles(connection, articles, max_article_len):
+    data = []
+    for article in articles:
+        article_title = clean_text(article.get('title', ''), max_article_len)
+        article_link = article.get('link', '')
+
+        if article_title == '' or article_link == '':
+            continue
+        
+        article_summary = clean_text(article.get('summary', ''), max_article_len)
+        article_date = get_article_date(article)
+        data.append((article_link, article_title, article_summary, int(article_date.timestamp())))
+    
+    cursor = connection.cursor()
+    cursor.executemany("INSERT OR IGNORE INTO Articles (link, title, summary, date) VALUES (?, ?, ?, ?)", data)
+    connection.commit()
+
+def get_articles_to_rate(connection, days):
+    cut_off = datetime.now() - timedelta(days=days)
+    cut_off_timestamp = int(cut_off.timestamp())
+    cursor = connection.cursor()
+    cursor.execute(f"SELECT * FROM Articles WHERE relevance IS NULL AND date > ?", (cut_off_timestamp,))
+    return cursor.fetchall()
