@@ -30,17 +30,6 @@ rating_prompt = """
 
     {articles}
 """
-question_prompt = """
-    Please provide a summary of the following text.
-    TEXT: {text}
-    SUMMARY:
-"""
-refine_prompt = """
-    Write a concise summary of the following text. 
-    Separate each summary by the title of the article and include a link to the source.
-    Output in markdown format.
-    TEXT: {text}
-"""
 
 def main():
     connection = sqlite3.connect(db_name)

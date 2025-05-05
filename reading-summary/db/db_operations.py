@@ -50,7 +50,9 @@ def update_relevance(connection, data):
     cursor.executemany("UPDATE Articles SET relevance = ? WHERE link = ?", data)
     connection.commit()
 
-def get_most_relevant_articles(connection, threshold):
+def get_most_relevant_articles(connection, threshold, days):
+    cut_off = datetime.now() - timedelta(days=days)
+    cut_off_timestamp = int(cut_off.timestamp())
     cursor = connection.cursor()
-    cursor.execute(f"SELECT link, title, summary, relevance FROM Articles WHERE relevance >= ?", (threshold,))
+    cursor.execute(f"SELECT link, title, summary, relevance FROM Articles WHERE relevance >= ? AND date > ?", (threshold,cut_off_timestamp))
     return cursor.fetchall()

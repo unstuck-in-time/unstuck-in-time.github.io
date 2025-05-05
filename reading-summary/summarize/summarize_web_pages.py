@@ -32,7 +32,7 @@ def load_web_pages(articles):
 
     return documents
 
-def summarize_web_pages(documents, model_name, input_prompt, refine_prompt):
+def summarize_web_pages(documents, model_name):
     llm = get_llm(model_name)
     
     markdown_output = "# Summarized Articles\n\n"
