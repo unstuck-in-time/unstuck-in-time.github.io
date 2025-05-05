@@ -48,5 +48,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ env.BRANCH_NAME }}
+          base: main
           title: "Update SQLite DB (automated)"
           body: "This PR updates the weekly article summaries automatically"
