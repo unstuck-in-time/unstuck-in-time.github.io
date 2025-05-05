@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-db:
+  update-summary:
     runs-on: ubuntu-latest
 
     steps:
@@ -35,19 +35,15 @@ jobs:
 
           # Create a branch name with a timestamp
           BRANCH_NAME="auto/articles-summary-$(date +%Y%m%d-%H%M%S)"
-          git checkout -b $BRANCH_NAME
-
-          git add .
-          git commit -m "Update Articles Summary [auto]" || exit 0
-          git push origin $BRANCH_NAME
-
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
+          commit-message: "Update Articles Summary [auto]"
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ env.BRANCH_NAME }}
           base: main
-          title: "Update SQLite DB (automated)"
+          title: "Update Articles Summary [auto]"
           body: "This PR updates the weekly article summaries automatically"
+          delete-branch: true
