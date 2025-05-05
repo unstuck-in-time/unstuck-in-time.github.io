@@ -20,13 +20,13 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          cd reading-summary && pip install -r requirements.txt
 
       - name: Run summarize relevant articles
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           SCRAPINGANT_TOKEN: ${{ secrets.SCRAPINGANT_TOKEN }}
-        run: python reading-summary/summarize_articles.py
+        run: cd reading-summary && python summarize_articles.py
 
       - name: Commit changes to a new branch
         run: |

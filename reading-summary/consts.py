@@ -33,5 +33,5 @@ tags:
   - about
 ---
 
-Readings are a weekly newsletter based on my RSS feeds. I have an LLM pipeline selects the most relevant articles from my feeds (based on the about page of this website) and summarizes them. \n\n
+This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. \n\n
 """

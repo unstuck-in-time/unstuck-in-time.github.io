@@ -20,13 +20,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          cd reading-summary && pip install -r requirements.txt
 
       - name: Run fetch and rank articles script
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           SCRAPINGANT_TOKEN: ${{ secrets.SCRAPINGANT_TOKEN }}
-        run: python reading-summary/score_articles.py
+        run: |
+          cd reading-summary && python score_articles.py
 
       - name: Commit and push changes
         run: |
