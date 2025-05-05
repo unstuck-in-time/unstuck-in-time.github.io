@@ -8,34 +8,43 @@ from langchain_core.documents import Document
 import os
 from models.google import get_llm
 from langchain.chains.summarize import load_summarize_chain
-
+from db.db_operations import insert_full_text
 
 def add_url_to_content(content, url):
     return f"Source: {url}\n{content}"
 
-def load_web_pages(articles):
+def load_web_pages(articles, connection):
     documents = []
     for article in articles:
         url = article[0]
         title = article[1]
         summary = article[2]
-        print(url)
+        full_text = article[3]
+
+        if full_text is None:
+            try:
+                print(f"scraping {url}")
+                loader = ScrapingAntLoader([url], api_key= os.getenv('SCRAPINGANT_TOKEN'))
+                docs = [doc.page_content for doc in loader.lazy_load()]
+                full_text = '\n'.join(docs)
+            except Exception as e:
+                print(e)
+                full_text = title + summary
         try:
-            loader = ScrapingAntLoader([url], api_key= os.getenv('SCRAPINGANT_TOKEN'))
-            for doc in loader.lazy_load():
-                doc = Document(page_content=add_url_to_content(doc.page_content, url), metadata={'url': url, 'title': title})
-                documents.append(doc)
+            insert_full_text(connection, full_text, url)
         except Exception as e:
             print(e)
-            doc = Document(page_content=add_url_to_content(title + summary, url), metadata={'url': url, 'title': title})
-            documents.append(doc)
+
+        metadata={'url': url, 'title': title}
+        doc = Document(page_content=full_text, metadata=metadata)
+        documents.append(doc)
 
     return documents
 
 def summarize_web_pages(documents, model_name):
     llm = get_llm(model_name)
     
-    markdown_output = "# Summarized Articles\n\n"
+    markdown_output = ""
     summary_chain = load_summarize_chain(llm, chain_type="stuff")
     for doc in documents:
         summary = summary_chain.invoke( [doc])['output_text']

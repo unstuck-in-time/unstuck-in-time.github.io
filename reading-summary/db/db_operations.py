@@ -8,6 +8,7 @@ create_table_query = '''
         relevance REAL,
         title TEXT NOT NULL,
         summary TEXT,
+        full_text TEXT,
         date INTEGER
     );
     '''
@@ -54,5 +55,10 @@ def get_most_relevant_articles(connection, threshold, days):
     cut_off = datetime.now() - timedelta(days=days)
     cut_off_timestamp = int(cut_off.timestamp())
     cursor = connection.cursor()
-    cursor.execute(f"SELECT link, title, summary, relevance FROM Articles WHERE relevance >= ? AND date > ?", (threshold,cut_off_timestamp))
+    cursor.execute(f"SELECT link, title, summary, full_text relevance FROM Articles WHERE relevance >= ? AND date > ?", (threshold,cut_off_timestamp))
     return cursor.fetchall()
+
+def insert_full_text(connection, full_text, link):
+    cursor = connection.cursor()
+    cursor.execute("UPDATE Articles SET full_text = ? WHERE link = ?", (full_text, link))
+    connection.commit()

@@ -1,0 +1,52 @@
+name: Update Articles Summary
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Every Week
+  workflow_dispatch:
+
+jobs:
+  update-db:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run summarize relevant articles
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          SCRAPINGANT_TOKEN: ${{ secrets.SCRAPINGANT_TOKEN }}
+        run: python reading-summary/summarize_articles.py
+
+      - name: Commit changes to a new branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Create a branch name with a timestamp
+          BRANCH_NAME="auto/articles-summary-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b $BRANCH_NAME
+
+          git add .
+          git commit -m "Update Articles Summary [auto]" || exit 0
+          git push origin $BRANCH_NAME
+
+          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.BRANCH_NAME }}
+          title: "Update SQLite DB (automated)"
+          body: "This PR updates the weekly article summaries automatically"
