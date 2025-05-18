@@ -37,7 +37,7 @@ def load_web_pages(articles, connection):
         except Exception as e:
             print(e)
 
-        metadata={'url': url, 'title': title}
+        metadata={'url': url, 'title': title, 'summary': summary}
         doc = Document(page_content=full_text, metadata=metadata)
         documents.append(doc)
 
@@ -49,7 +49,12 @@ def summarize_web_pages(documents, model_name):
     markdown_output = ""
     summary_chain = load_summarize_chain(llm, chain_type="stuff")
     for doc in documents:
-        summary = summary_chain.invoke( [doc])['output_text']
+        summary = doc.metadata['summary']
+        try:
+            summary = summary_chain.invoke( [doc])['output_text']
+        except Exception as e:
+            print(e)
+
         markdown_output += f"## {doc.metadata['title']}\n\n"
         markdown_output += f"[Source]({doc.metadata['url']})\n\n"
         markdown_output += f'{summary}\n\n'
