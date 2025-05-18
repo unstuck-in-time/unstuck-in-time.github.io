@@ -21,7 +21,7 @@ def load_web_pages(articles, connection):
         summary = article[2]
         full_text = article[3]
 
-        if full_text is None:
+        if full_text is None or full_text.strip() == '':
             try:
                 print(f"scraping {url}")
                 loader = ScrapingAntLoader([url], api_key= os.getenv('SCRAPINGANT_TOKEN'))
@@ -29,7 +29,9 @@ def load_web_pages(articles, connection):
                 full_text = '\n'.join(docs)
             except Exception as e:
                 print(e)
-                full_text = title + summary
+                print("falling back to title and summary")
+                full_text = title + " "  + summary
+                print(full_text)
         try:
             insert_full_text(connection, full_text, url)
         except Exception as e:
