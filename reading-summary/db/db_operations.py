@@ -55,7 +55,7 @@ def get_most_relevant_articles(connection, threshold, days):
     cut_off = datetime.now() - timedelta(days=days)
     cut_off_timestamp = int(cut_off.timestamp())
     cursor = connection.cursor()
-    cursor.execute(f"SELECT link, title, summary, full_text relevance FROM Articles WHERE relevance >= ? AND date > ?", (threshold,cut_off_timestamp))
+    cursor.execute(f"SELECT link, title, summary, full_text, relevance FROM Articles WHERE relevance >= ? AND date > ?", (threshold,cut_off_timestamp))
     return cursor.fetchall()
 
 def insert_full_text(connection, full_text, link):
