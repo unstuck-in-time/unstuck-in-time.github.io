@@ -20,17 +20,17 @@ def main():
 
         # get recent articles from feeds and insert them into database
         recent_articles = filter_articles_by_date(feeds, consts.num_days_to_fetch)
-        insert_articles(connection, recent_articles, consts.max_article_len)
+        insert_articles(connection, recent_articles)
     except Exception as e:
         print(e)
 
     # get articles to rate from database
     articles_to_rate = []
     try:
-        articles_to_rate = get_articles_to_rate(connection, consts.num_days_to_fetch)
+        articles_to_rate = get_articles_to_rate(connection, consts.num_days_to_fetch, consts.max_article_len)
     except Exception as e:
         print(e)
-
+    
     # prompt llm to rate relevance of articles
     if len(articles_to_rate) > 0:
         print(f'ranking {len(articles_to_rate)} new articles')
