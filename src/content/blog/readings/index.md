@@ -1,7 +1,7 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-05-11
+date: 2025-05-18
 tags:
   - about
 ---
@@ -9,79 +9,69 @@ tags:
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
 
-## Environmental context scaffolds children's semantic representation of novel words
+## Which actions?
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001027?dgcid=rss_sd_all)
+[Source](https://philosophyofbrains.com/2025/05/12/which-actions.aspx)
 
-This ScienceDirect article details a study examining how environmental context influences preschoolers' semantic understanding of novel words.  Researchers found that 3-year-olds used context-related verbs (e.g., "eat" in a kitchen scene) to predict novel object labels, demonstrating that they integrated environmental information into their word meanings.  The study's data and analysis scripts are publicly accessible.
+The Brains Blog, a leading forum for philosophy and science of mind since 2005, features a blog, podcast, calendar, contributor information, book reviews, symposia, scholar spotlights, calls for papers, and information on the Minds Online Conference. It includes a masthead with editors, a subscription option, event listings, archives, and a recent post discussing Peter Carruthers' critique of the standard belief-desire model of action, advocating for a broader scope in the philosophy of action that incorporates relevant science. The site also provides support options via Patreon and PayPal.
 
-## Loopholes: A window into value alignment and the communication of meaning
+## Grammatical gender in Slovak word production: an event-related potential study
 
-[Source](https://www.sciencedirect.com/science/article/pii/S001002772500071X?dgcid=rss_sd_all)
+[Source](https://www.tandfonline.com/doi/full/10.1080/23273798.2025.2501738?af=R)
 
-This is a ScienceDirect page displaying a full-length article titled "Loopholes: A window into value alignment and the communication of meaning."  The article investigates intentional misunderstandings (loopholes) in communication, exploring their prevalence, function in social interactions, and implications for AI safety.  Three studies are presented: one surveying real-world loophole experiences, another evaluating people's judgments of loophole behavior versus compliance/non-compliance, and a third examining predictions of loophole use based on goal alignment and power dynamics.  The findings suggest loopholes are distinct from simple non-compliance and are strategically employed, particularly when goals conflict and the cost of direct refusal is high.
+This article discusses a study investigating grammatical gender processing in Slovak word production using a picture-word interference task and EEG. The study found no significant difference in naming latencies between gender-congruent and incongruent conditions, but the EEG data revealed a P300-like effect modulated by gender congruency. This suggests that grammatical gender is always activated during Slovak speech production, even when not required for the utterance format, and that reaction time measurements may not be sensitive enough to detect this processing. The study contributes to understanding the automatic activation of lexico-syntactic features in language production and highlights potential language-specific differences in gender processing.
 
-## Observed reaching speed signals stimulus value and informs foraging
+## Explaining our Actions: A Critique of Common-Sense Theorizing (CUP, 2025)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725000885?dgcid=rss_sd_all)
+[Source](https://philosophyofbrains.com/2025/05/12/explaining-our-actions-a-critique-of-common-sense-theorizing-cup-2025.aspx)
 
-This ScienceDirect article investigates how observed reaching speed influences foraging behavior.  Four experiments demonstrate that faster reaching movements towards a stimulus are interpreted by observers as signaling higher value. This perception then affects observers' foraging choices and the amount of time and effort they invest in exploiting a resource. The study highlights the role of action understanding and social learning in optimal foraging decisions, suggesting that observers can infer stimulus value from subtle kinematic cues without explicit communication.
+The Brains Blog (philosophyofbrains.com) is a leading forum since 2005 dedicated to the philosophy and science of mind. It features blog posts, a podcast, a calendar of events, information for contributors, book reviews, symposia, featured scholars, calls for papers, and the Minds Online Conference. The site also features a series of posts by Peter Carruthers on his new book, _Explaining our Actions_. It has an archive of content dating back to 2005, invites email subscriptions, and seeks support through Patreon and PayPal.
 
-## The specificity of sequential statistical learning: Statistical learning accumulates predictive information from unstructured input but is dissociable from (declarative) memory for words
+## Moral psychological exploration of the asymmetry effect in AI-assisted euthanasia decisions
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725000708?dgcid=rss_sd_all)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001179?dgcid=rss_sd_all)
 
-This is a ScienceDirect article from the journal *Cognition* investigating the role of statistical learning in word segmentation.  Through computational modeling and two experiments, the authors challenge the notion that statistical learning creates declarative memories of words.  Their findings suggest statistical learning primarily facilitates predictive processing in continuous speech, but is dissociable from the memory mechanisms needed for word acquisition and boundary identification.  Pre-segmented speech, mimicking prosodic cues, was necessary for participants to recall words, highlighting the importance of cues beyond statistical regularities in word learning.
+This ScienceDirect article explores the moral psychology of AI-assisted euthanasia decisions, focusing on the "human-robot moral judgment asymmetry" where AI agents are judged more harshly than humans for similar actions. Through multiple studies, the authors investigate factors influencing this asymmetry, including the level of automation, patient autonomy, perceived competence of the AI, and explainability of its decisions. The research finds that the asymmetry effect is less pronounced when patients are conscious, the AI's competence is emphasized, and its decision-making process is transparent. A meta-analysis confirms the asymmetry's prevalence, suggesting the need for a new theory accounting for these boundary conditions in the moral psychology of robotics.
 
-## Common and distinct neural substrates of rule- and similarity-based category learning
+## Philosophers on psychedelics
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725000836?dgcid=rss_sd_all)
+[Source](https://manyminds.libsyn.com/philosophers-on-psychedelics)
 
-This is a ScienceDirect article preview for a study on the neural substrates of rule-based and similarity-based category learning.  Using EEG-fNIRS, three experiments compared brain activity while participants learned categories using either instructed or self-discovered strategies. Results suggest distinct neural mechanisms: rule-based learning involves hypothesis testing and semantic processing (larger P300, N400, Wernicke's area activation), while similarity-based learning relies on visual processing and feature integration (larger P1, frontopolar cortex activation).  These findings support a multiple-system (COVIS) model over single-system accounts of category learning.
+This is a description of the "Many Minds" podcast episode "Philosophers on Psychedelics," featuring Dr. Chris Letheby. The episode discusses the resurgence of interest in psychedelic drugs within philosophy, exploring their effects on ethics, epistemology, metaphysics, and the nature of the mind. It covers the history of psychedelic research, their potential for treating psychiatric conditions, and their ability to induce mystical-like experiences. The discussion also touches on moral enhancement, psychological and neural mechanisms, and various related concepts. The podcast is part of the Diverse Intelligences Summer Institute and provides links to related research, books, and social media. The site also provides an archive of past episodes from 2020-2025, categorized by month.
 
-## Semantic extension in a novel communication system is facilitated by salient shared associations
+## Mental actions
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725000691?dgcid=rss_sd_all)
+[Source](https://philosophyofbrains.com/2025/05/13/mental-actions.aspx)
 
-This ScienceDirect article presents two experiments investigating semantic extension in novel communication systems.  Participants, working in pairs, used geometric shapes to label shapes, colors, objects, and emotions. Experiment 1 showed that consistent shape-color pairings facilitated initial extension and subsequent chaining of extensions to more abstract concepts.  Experiment 2, with a between-subjects design and shape remapping, confirmed these findings, highlighting the role of shared associations in successful communication.  The study reveals that metonymic extensions are more frequent than metaphorical ones, and that the strength of grounding influences extension success.  Unexpectedly, pre-existing non-arbitrary associations between shapes, colors, and emotions also played a significant role.  The authors propose this experimental paradigm as a flexible tool for further research into semantic extension and language evolution.
+The Brains Blog (philosophyofbrains.com) is a leading forum since 2005 for work in the philosophy and science of mind. It features blog posts, a podcast, a calendar of events, and resources for contributors. Recent posts focus on Peter Carruthers' book, "Explaining our Actions," particularly the concept of mental actions, arguing that mind-wandering is active and that decisions, as boundary-crossings in neural accumulators, are passive.
 
-## 'Influential Papers' Feed - 5 New Papers
+## 20-month-olds can use negative evidence while learning word meanings
 
-[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/3fwztzpu5qbx2lqk6dd0.html)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001118?dgcid=rss_sd_all)
 
-This is a Semantic Scholar weekly digest (April 28 - May 4) featuring five research papers on AI awareness.  The papers cover topics such as:  the different forms of AI awareness,  the evolution of human consciousness (challenging the idea it's a gradual development), a dual-channel AI architecture for human-aligned systems, a categorical model of general consciousness, and bridging the cognition gap between humans and ChatGPT using ACT-R.
+This ScienceDirect article investigates whether 20-month-old infants can use negative evidence (e.g., "This is not a danu") to learn word meanings. Two experiments using eye-tracking showed that infants can use negative evidence to constrain their interpretation of a novel word, suggesting that learning word meanings may not rely solely on positive evidence. Experiment 2, contrasted to Experiment 1, showed that the no-label condition in Experiment 1 was not due to confusion but rather the interpretation of both objects being possible referents. The study challenges traditional views on lexicon acquisition and invites further research on the role of negative evidence in supporting learning.
 
-## Object- and feature-based working memory limits for pairs of complex objects and their development during the school years
+## The Will
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001039?dgcid=rss_sd_all)
+[Source](https://philosophyofbrains.com/2025/05/16/the-will.aspx)
 
-This is a ScienceDirect article preview for a study published in *Cognition* examining the development of working memory capacity for complex objects in children aged 8–12 years and young adults.  The research challenges previous findings by demonstrating that feature richness, not just object number, significantly impacts working memory development.  A two-step model of object and feature encoding is proposed.  The full text and data are available online.
+PhilosophyofBrains.com is a blog and forum dedicated to the philosophy and science of mind, active since 2005. It features articles, a podcast, a calendar of events, calls for papers, and information about symposia and featured scholars. The site also includes a Minds Online Conference and resources for contributors. Recent posts include a series by Peter Carruthers on his book "Explaining our Actions," focusing on the nature of intentions, beliefs, knowledge, and willpower. The blog is supported by Patreon and PayPal and has a large archive of posts.
 
-## A hierarchical model of early brain functional network development
+## AI Agents: Protocols Driving Next-Gen Enterprise Intelligence
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00080-4?rss=yes)
+[Source](https://thenewstack.io/ai-agents-protocols-driving-next-gen-enterprise-intelligence/)
 
-This is a webpage for *Trends in Cognitive Sciences*, a Cell Press journal.  The page features an article, "A hierarchical model of early brain functional network development," by Wei Gao.  The article proposes a developmental hierarchy of brain networks, progressing from primary sensory/motor to socioemotional, and finally to cognitive/executive control networks.  It discusses the timing of this development, its relationship to behavior, the impact of risk factors, and potential therapeutic interventions.  The webpage also includes a login section, journal information, and other Cell Press publications.
+The New Stack (TNS) offers a newsletter providing software engineering news and exclusive content.  Subscription requires providing personal and professional details. TNS emphasizes AI, engineering, operations, and programming, covering topics like cloud-native ecosystems, AI, DevOps, and various programming languages. It also explores the use of new protocols such as Model Context Protocol (MCP), Agent Communication Protocol (ACP), and Agent to Agent Protocol (A2A) to facilitate communication and collaboration between AI agents.  TNS also allows users to manage cookie preferences.
 
-## Predictive coding in the human olfactory system
+## Agentic AI: Powerful but Fragile  What You Need To Know
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00084-1?rss=yes)
+[Source](https://thenewstack.io/agentic-ai-powerful-but-fragile-what-you-need-to-know/)
 
-CONCISE SUMMARY:
+The New Stack (TNS) offers a newsletter for software engineering professionals.  Subscription requires providing personal and professional information.  Previous unsubscribers must re-subscribe. The site also features articles on various topics, including AI, cloud native technologies, and programming languages. A recent sponsored article by Catchpoint highlights the fragility of agentic AI due to its reliance on multiple external services, emphasizing the need for visibility and proactive monitoring to ensure resilience.
 
-There is no text provided to summarize.
+## Belief and Knowledge
 
-## Facial clues to conversational intentions
+[Source](https://philosophyofbrains.com/2025/05/15/belief-and-knowledge.aspx)
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00079-8?rss=yes)
-
-CONCISE SUMMARY:
-
-There is no text provided to summarize.
-
-## BI 211 COGITATE: Testing Theories of Consciousness
-
-[Source](https://braininspired.co/podcast/211/)
-
-Brain Inspired podcast episode 211 discusses the COGITATE project, an adversarial collaboration testing Integrated Information Theory and Global Neuronal Workspace Theory of consciousness.  Using EEG, MEG, and fMRI, researchers tested predictions about the location, duration, and connectivity of consciousness-related brain activity.  Results were inconclusive, neither fully falsifying either theory, but providing valuable data for future research.  The episode features interviews with three researchers involved in the project and their published paper in Nature.
+The Philosophy of Brains blog is a leading online forum since 2005 for discussions in the philosophy and science of mind. It features articles, a podcast, a calendar of events, and resources for contributors, including information on books, symposia, featured scholars, and calls for papers. It also hosts the Minds Online Conference. The site includes support and contact information, policies, and a list of editors. The latest post is on Peter Carruthers' book, "Explaining Our Actions," focusing on beliefs, knowledge, and their role in cognitive science.
 
