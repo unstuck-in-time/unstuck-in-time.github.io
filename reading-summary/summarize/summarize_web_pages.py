@@ -22,16 +22,20 @@ def load_web_pages(articles, connection):
         full_text = article[3]
 
         if full_text is None or full_text.strip() == '':
+            fallback_text = title + " "  + summary
             try:
                 print(f"scraping {url}")
                 loader = ScrapingAntLoader([url], api_key= os.getenv('SCRAPINGANT_TOKEN'))
                 docs = [doc.page_content for doc in loader.lazy_load()]
+
                 full_text = '\n'.join(docs)
+                if full_text.strip() == '':
+                    print("falling back to title and summary")
+                    full_text = fallback_text
             except Exception as e:
                 print(e)
                 print("falling back to title and summary")
-                full_text = title + " "  + summary
-                print(full_text)
+                full_text = fallback_text
         try:
             insert_full_text(connection, full_text, url)
         except Exception as e:
