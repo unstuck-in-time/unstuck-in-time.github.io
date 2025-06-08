@@ -1,63 +1,107 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-01
+date: 2025-06-08
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## Agency, desire, and the conceptual representation of consent
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001301?dgcid=rss_sd_all)
+## Self-powered artificial synapse mimics human color vision
 
-This ScienceDirect article examines the conceptual representation of consent through a series of studies using linguistic analysis, experimental tasks, and natural language processing. The research suggests that consent is often associated with a "patient" role in interactions and indicates instrumental desire (desire as a means to an end) rather than intrinsic desire. The article concludes that this association may contribute to skepticism about consent's effectiveness in the sexual domain, where intrinsic desire is often expected, creating a mismatch between the concept of consent and prevailing moral norms.
+[Source](https://www.sciencedaily.com/releases/2025/06/250602155323.htm)
 
-## The role of attention and frames on third-party punishment and compensation choices
+Researchers at the Tokyo University of Science have created a self-powered artificial synapse that mimics human color vision. This device, using dye-sensitized solar cells, can distinguish colors with high resolution and perform complex logic operations without external power, making it suitable for energy-efficient edge computing applications like autonomous vehicles, healthcare wearables, and smartphones. The device achieved 82% accuracy in recognizing human movements recorded in different colors, demonstrating its potential for low-power AI systems with visual recognition.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001325?dgcid=rss_sd_all)
+## SSPP 2025:  Sarah Robins on SSPP
 
-This ScienceDirect article, published in Cognition, investigates the impact of attention and information framing on third-party punishment and compensation choices in response to injustice. Through five experiments, the authors found that attention to the offender's payoff predicts punishment, while manipulating information frames (revealing either the offender's or victim's payoff) significantly influences decisions. They observed an "offender bias" where people tend to focus on the offender's outcomes, and that exposing individuals to information they wouldn't normally seek can shift their choices. While the role of empathy was not clear, the study suggests that bottom-up attentional mechanisms and information framing significantly shape moral decision-making, with implications for understanding information bubbles and promoting fairer outcomes.
+[Source](https://philosophyofbrains.com/2025/06/02/sspp-2025-sarah-robins-on-sspp.aspx)
 
-## Gaze behavior in face-to-face interaction: A cross-cultural investigation between Japan and The Netherlands
+The "Brains Blog" is a leading online forum since 2005 for discussing philosophy and science of mind, featuring a blog, podcast, calendar, and resources for contributors, books, symposia, featured scholars, calls for papers, and a Minds Online conference. It also serves as a platform to promote the Southern Society for Philosophy and Psychology (SSPP), highlighting its history, interdisciplinary nature, supportive conference environment, and key presentations from its annual meeting.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001143?dgcid=rss_sd_all)
+## This Week: SSPP and Brains!
 
-This ScienceDirect article investigates cross-cultural differences in gaze behavior between Japanese and Dutch dyads during unstructured conversation and a collaborative Duplo model-copying task. The study examines gaze avoidance, gaze-gesture coupling, and gaze-action coupling. The findings suggest that Japanese participants consistently looked less at faces than Dutch participants. They also used fewer pointing gestures and kept their hands under the table more often. While visuomotor coordination was similar, extended gaze-action patterns diverged, potentially reflecting cultural strategies and error orientation styles. The study highlights the importance of assessing gaze behavior within the context of interaction and cultural differences.
+[Source](https://philosophyofbrains.com/2025/06/02/this-week-sspp-and-brains.aspx)
 
-## Children's reaction to unequal norm enforcement: The role of meta-norms in fairness judgments and emotion attributions
+The Brains Blog is a leading online forum since 2005 for discussions in the philosophy and science of mind. It features blog posts, a podcast, a calendar of events, calls for papers, and information about symposia, featured scholars, and the Minds Online Conference. The blog also has a section for books and welcomes contributors. The current focus is on co-hosting posts with the Southern Society for Philosophy and Psychology (SSPP).
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001374?dgcid=rss_sd_all)
+## SSPP 2025: Juan Murillo Vargas on the Question-Sensitivity of Cognition
 
-This ScienceDirect article preview summarizes research on children's understanding of fairness in punishment. Two studies examined how children aged 6-9 react to unequal punishment for the same transgression. The results indicate children expect consistent consequences based on a "meta-norm" of equal enforcement, and they attribute mixed emotions to both punished and unpunished individuals, suggesting punishment can offer emotional relief. The research contributes to understanding children's moral reasoning, fairness sensitivity, and emotional attributions.
+[Source](https://philosophyofbrains.com/2025/06/04/sspp-2025-juan-murillo-vargas-on-the-question-sensitivity-of-cognition.aspx)
 
-## Reasoning and Argumentation
+The "Philosophy of Brains" blog post summarizes Juan Murillo Vargas's SSPP 2025 presentation on the "question-sensitivity" of cognition. Vargas explores the idea that our minds are active inquirers, influenced by the questions we ask. He proposes the "Questions-Tractability Hypothesis," suggesting that questions aid computational tractability without sacrificing flexibility, particularly within central cognition. Questions reduce the information a cognitive process needs to compute, making life easier computationally. While Vargas no longer fully agrees with the paper's claims, he finds the topic interesting and invites reader feedback. The blog also provides information about the blog's purpose, editors, upcoming events, archives, and ways to support it.
 
-[Source](https://oecs.mit.edu/pub/wxnjre8g)
+## BI 213 Representations in Minds and Brains
 
-This is a summary of Hugo Mercier's article "Reasoning and Argumentation" published in the Open Encyclopedia of Cognitive Science. The article explores the relationship between individual reasoning and social argumentation, highlighting historical perspectives, core concepts like dual-process theory and the interactionist theory of reason, and current debates. These debates concern how individual reasoning relates to internalized argumentation, how well people reason together, the development of argumentation skills, and whether large language models can argue like humans. The article also touches upon broader connections to metarepresentational mechanisms and their social functions.
+[Source](https://braininspired.co/podcast/213/)
 
-## Shared Intentionality
+This is a webpage for Brain Inspired podcast episode 213, titled "Representations in Minds and Brains." The episode features a discussion between neuroscientists and philosophers on the meaning and use of the term "representation" in cognitive science. It provides links to support the show, access episodes, join a complexity group, student login, and about information. It also provides links to subscribe to the podcast and share the episode on social media.
 
-[Source](https://oecs.mit.edu/pub/sep9e3c2)
+## Aphantasia as a functional disconnection
 
-Michael Tomasello's article "Shared Intentionality" for the Open Encyclopedia of Cognitive Science explores humans' unique ability to collaborate and function as a "we," distinguishing it from other species. It discusses the evolution and development of joint and collective agencies, highlighting core concepts like joint goals, common ground, roles, coordination, and commitments. The article addresses controversies regarding shared intentionality in other primates and argues for its central role in human cognition, bridging psychology with social sciences like anthropology.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00124-X?rss=yes)
 
-## Play
+Aphantasia may stem from reduced functional connectivity between visual processing areas (specifically the left fusiform imagery node) and frontoparietal regions in the brain, despite typical activation of visual cortices during imagery tasks.
 
-[Source](https://oecs.mit.edu/pub/y4e45rq6)
+## Estimating divergent moral and diversity preferences between AI builders and AI users
 
-This article from the Open Encyclopedia of Cognitive Science defines "play" as intrinsically motivated behavior, often costly, pursued for idiosyncratic ends. It explores the history of understanding play, from early reinforcement theories to current cognitive perspectives. It discusses different accounts of play, including evolutionary spandrel, a signal of fitness, social bonding, practice, and learning. The article further examines the challenges in explaining human play and its potential connection to cognition, as well as broader connections to robotics and AI.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001386?dgcid=rss_sd_all)
 
-## Neuroscience of Syntax
+This ScienceDirect article investigates potential value divergences between AI builders and AI users, focusing on moral beliefs (utilitarianism) and diversity preferences. The study, using a pseudo-experimental design with adults and adolescents, finds that higher AI engagement is linked to stronger utilitarian tendencies and weaker support for diversity, especially among males. The authors suggest demographic homogeneity in the AI workforce, particularly gender imbalance, may contribute to these differences, potentially leading to AI systems that don't fully align with broader societal values. They stress the need for a more diverse AI workforce to ensure alignment with societal values.
 
-[Source](https://oecs.mit.edu/pub/7n23j8sg)
+## SSPP 2025:  Rodrigo Garro Rivero on Weird Visuospatial Representations
 
-This article, "Neuroscience of Syntax" published in the Open Encyclopedia of Cognitive Science, discusses how the brain processes syntax, the system of rules governing sentence construction. It refutes the idea of a single "syntax center," arguing instead for a distributed network within the left-lateralized frontal and temporal lobes. Syntactic processing is integrated with other language functions and relies on both predictive and integrative computations. Notably, brain areas involved in linguistic syntax are distinct from those processing structure in other domains.
+[Source](https://philosophyofbrains.com/2025/06/06/sspp-2025-rodrigo-garro-rivero-on-weird-visuospatial-representations.aspx)
 
-## Sentence Processing
+The Brains Blog is a leading forum since 2005 for work in the philosophy and science of mind. It features blog posts, a podcast, a calendar of events, resources for contributors, book reviews, symposia, featured scholars, calls for papers, and information on the Minds Online Conference. A recent post discusses Rodrigo Garro Rivero's work on visuospatial representations, arguing that mental polar coordinates may comprise analog rather than digital constituents, which better explains certain error patterns in spatial reasoning. The site also provides archives, contact information, support options, and promotes partners like Nautilus.
 
-[Source](https://oecs.mit.edu/pub/mn7mjhx9)
+## Why Different Neuron Parts Learn Differently?
 
-This article from the Open Encyclopedia of Cognitive Science defines sentence processing as the study of how humans understand sentences, focusing on real-time comprehension and the integration of linguistic knowledge with world knowledge. It traces the history of the field, highlighting key theories like the Garden Path Theory and constraint-based parsing, and discusses core concepts such as processing complexity, local ambiguity, incremental processing, dependency formation, and priming. The article concludes by addressing current questions and controversies, including the role of AI, the need for broader linguistic diversity in research, and connections to neuroscience and language acquisition.
+[Source](https://www.youtube.com/watch?v=9StHNcGs-JM)
+
+Artem Kirsanov, a researcher at NYU and Flatiron Institute, discusses a Science study showing that different compartments of pyramidal neurons (apical vs. basal dendrites) employ distinct plasticity rules for learning. The video explores synaptic transmission, LTP, Hebbian and non-Hebbian plasticity, the study's hypothesis, experimental methods, and resulting compartmentalized plasticity. The video is sponsored by Brilliant.
+
+## Psychological distance to science
+
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00121-4?rss=yes)
+
+Psychological distance makes science feel irrelevant to daily life, leading to rejection and distrust. Reducing this distance increases trust in science.
+
+## fMRI decoders: unlike the baby, wishful thinking is alive and well
+
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00117-2?rss=yes)
+
+The authors stand by their claim that fMRI decoding models, no matter how specific, cannot distinguish between true neural mechanisms and their epiphenomena. They argue that Lee et al.'s attempt to improve model specificity doesn't address this fundamental limitation, reiterating previously detailed fallacies.
+
+## Neural decoders: saving the baby from the bathwater
+
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00077-4?rss=yes)
+
+Vigotsky et al. critique fMRI-based neural decoders, arguing they lack scientific validity due to nonspecific signals. While acknowledging the need for rigorous validity testing, the critique overstates the problem and ignores ongoing efforts to improve decoding model validity.
+
+## SSPP 2025:  Akshan deAlwis on Attribution of Desire
+
+[Source](https://philosophyofbrains.com/2025/06/05/sspp-2025-akshan-dealwis-on-attribution-of-desire.aspx)
+
+The Brains Blog is a leading forum since 2005 for work in the philosophy and science of mind. It features articles, a podcast, a calendar of events, calls for papers, and information about symposia and featured scholars. A recent post discusses Akshan deAlwis's SSPP presentation on the attribution of desire, arguing that desire attribution challenges the Representational Factive Mentalizing View.
+
+## The role of motivation in delayed disengagement from threat in anxiety
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2514625?ai=2a7&mi=3dg6fv&af=R)
+
+Anxiety can cause people to struggle to disengage from perceived threats, and motivation plays a significant role in this difficulty.
+
+## Pupil responses to emotion regulation strategies: the role of attachment orientations
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2512886?ai=2a7&mi=3dg6fv&af=R)
+
+Pupil dilation, an indicator of cognitive effort, is affected by the use of emotion regulation strategies. Attachment style influences this relationship, suggesting that different attachment orientations impact how individuals process and regulate emotions.
+
+## Everything is going to be okay: emotion regulation and immune neglect in affective forecasting
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2511974?ai=2a7&mi=3dg6fv&af=R)
+
+People tend to overestimate the emotional impact of future events, neglecting their ability to regulate their emotions and the role of the immune system in recovery, leading to inaccurate affective forecasts.
+
