@@ -1,7 +1,7 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-08
+date: 2025-06-15
 tags:
   - about
 ---
@@ -9,69 +9,39 @@ tags:
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
 
-## Self-powered artificial synapse mimics human color vision
+## Communicative pressures shape language during communication (not learning): Evidence from case-marking in artificial languages
 
-[Source](https://www.sciencedaily.com/releases/2025/06/250602155323.htm)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001040?dgcid=rss_sd_all)
 
-Researchers at the Tokyo University of Science have created a self-powered artificial synapse that mimics human color vision. This device, using dye-sensitized solar cells, can distinguish colors with high resolution and perform complex logic operations without external power, making it suitable for energy-efficient edge computing applications like autonomous vehicles, healthcare wearables, and smartphones. The device achieved 82% accuracy in recognizing human movements recorded in different colors, demonstrating its potential for low-power AI systems with visual recognition.
+This ScienceDirect article, published in Cognition journal, investigates whether communicative pressures shape language use during communication, as opposed to during learning. It presents an artificial language learning experiment focused on Differential Case Marking (DCM). The study found no evidence that learners develop a bias for communicatively efficient DCM during learning. However, when participants used the artificial language in a communicative task, they rapidly adopted DCM, suggesting that language adapts to communicative efficiency constraints during communication itself, not just during learning.
 
-## BI 213 Representations in Minds and Brains
+## Investigating retrieval strategies in an associative recognition test in working memory: Evidence from eye movements
 
-[Source](https://braininspired.co/podcast/213/)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001398?dgcid=rss_sd_all)
 
-This is a webpage for Brain Inspired podcast episode 213, titled "Representations in Minds and Brains." The episode features a discussion between neuroscientists and philosophers on the meaning and use of the term "representation" in cognitive science. It provides links to support the show, access episodes, join a complexity group, student login, and about information. It also provides links to subscribe to the podcast and share the episode on social media.
+This article investigates retrieval strategies in associative recognition within working memory using eye movements (LAN effect). Five experiments presented participants with word pairs and tested their recognition, tracking eye movements. The results consistently show that participants primarily use the first probe word to retrieve its associated pair, rather than using both words jointly. The study also explores factors affecting the onset of the LAN effect, finding that the timing of the task (inter-word interval) and the layout of the display influence when LAN begins. It suggests that the location information is still incidentally bound to the content in WM, and is automatically retrieved at test, even though the location is never explicitly tested.
 
-## Aphantasia as a functional disconnection
+## 'Influential Papers' Feed - 1 New Paper
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00124-X?rss=yes)
+[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/i0zcpsapktypoeyo61dr.html)
 
-Aphantasia may stem from reduced functional connectivity between visual processing areas (specifically the left fusiform imagery node) and frontoparietal regions in the brain, despite typical activation of visual cortices during imagery tasks.
+This is a weekly digest from Semantic Scholar, highlighting a paper from the user's "Influential Papers" feed. The featured paper, "The Unified Cognitive Consciousness Theory for Language Models," proposes that LLMs are unconscious substrates of linguistic and conceptual patterns, rather than deficient agents. The email provides options to save the paper, mark it as not relevant, view more papers, and manage email alerts. It also includes links to Semantic Scholar's social media, newsletter sign-up, and contact information.
 
-## Estimating divergent moral and diversity preferences between AI builders and AI users
+## The interoceptive origin of reinforcement learning
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001386?dgcid=rss_sd_all)
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00120-2?rss=yes)
 
-This ScienceDirect article investigates potential value divergences between AI builders and AI users, focusing on moral beliefs (utilitarianism) and diversity preferences. The study, using a pseudo-experimental design with adults and adolescents, finds that higher AI engagement is linked to stronger utilitarian tendencies and weaker support for diversity, especially among males. The authors suggest demographic homogeneity in the AI workforce, particularly gender imbalance, may contribute to these differences, potentially leading to AI systems that don't fully align with broader societal values. They stress the need for a more diverse AI workforce to ensure alignment with societal values.
+Traditional reinforcement learning focuses on how rewards shape behavior. This perspective argues that primary rewards, like food, originate internally and subliminally during digestion. This redefines rewards as state-dependent evaluations of actions' impact on physiological processes, necessitating a revised reinforcement learning framework.
 
-## Why Different Neuron Parts Learn Differently?
+## Diffindo! Precise language comprehension in older adulthood revealed by event-related brain potential studies of domain knowledge
 
-[Source](https://www.youtube.com/watch?v=9StHNcGs-JM)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001507?dgcid=rss_sd_all)
 
-Artem Kirsanov, a researcher at NYU and Flatiron Institute, discusses a Science study showing that different compartments of pyramidal neurons (apical vs. basal dendrites) employ distinct plasticity rules for learning. The video explores synaptic transmission, LTP, Hebbian and non-Hebbian plasticity, the study's hypothesis, experimental methods, and resulting compartmentalized plasticity.
+This ScienceDirect article, "Diffindo! Precise language comprehension in older adulthood revealed by event-related brain potential studies of domain knowledge," investigates how older adults use their knowledge, particularly of the Harry Potter universe, to comprehend language in real-time. Using event-related potentials (ERPs), the study examines how domain knowledge influences semantic access and processing strategies in older adults compared to what is known about younger adults. The research explores whether greater domain knowledge leads to broader or more focused semantic activation during sentence comprehension in older adults, and how this relates to memory and stimulus evaluation.
 
-## Psychological distance to science
+## Modelling child learning and parsing of long-range syntactic dependencies
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00121-4?rss=yes)
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001209?dgcid=rss_sd_all)
 
-Psychological distance makes science feel irrelevant to daily life, leading to rejection and distrust. Reducing this distance increases trust in science.
-
-## fMRI decoders: unlike the baby, wishful thinking is alive and well
-
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00117-2?rss=yes)
-
-The authors stand by their claim that fMRI decoding models, no matter how specific, cannot distinguish between true neural mechanisms and their epiphenomena. They argue that Lee et al.'s attempt to improve model specificity doesn't address this fundamental limitation, reiterating previously detailed fallacies.
-
-## Neural decoders: saving the baby from the bathwater
-
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00077-4?rss=yes)
-
-Vigotsky et al. critique fMRI-based neural decoders, arguing they lack scientific validity due to nonspecific signals. While acknowledging the need for rigorous validity testing, the critique overstates the problem and ignores ongoing efforts to improve decoding model validity.
-
-## The role of motivation in delayed disengagement from threat in anxiety
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2514625?ai=2a7&mi=3dg6fv&af=R)
-
-Anxiety can cause people to struggle to disengage from perceived threats, and motivation plays a significant role in this difficulty.
-
-## Pupil responses to emotion regulation strategies: the role of attachment orientations
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2512886?ai=2a7&mi=3dg6fv&af=R)
-
-Pupil dilation, an indicator of cognitive effort, is affected by the use of emotion regulation strategies. Attachment style influences this relationship, suggesting that different attachment orientations impact how individuals process and regulate emotions.
-
-## Everything is going to be okay: emotion regulation and immune neglect in affective forecasting
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2511974?ai=2a7&mi=3dg6fv&af=R)
-
-People tend to overestimate the emotional impact of future events, neglecting their ability to regulate their emotions and the role of the immune system in recovery, leading to inaccurate affective forecasts.
+This is a preview of a ScienceDirect article titled "Modelling child learning and parsing of long-range syntactic dependencies" from the journal Cognition. The article presents a computational model of child language acquisition that learns syntax and semantics by training on child-directed speech paired with logical forms. The model uses Combinatory Categorial Grammar (CCG) and an incremental expectation-maximization algorithm. The authors claim their model advances previous work by handling a wider range of syntactic constructions, including long-range dependencies like object wh-questions, and achieving higher accuracy in parsing and meaning inference.
 
