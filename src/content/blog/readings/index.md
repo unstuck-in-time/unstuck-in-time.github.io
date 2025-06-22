@@ -8,13 +8,6 @@ tags:
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-
-## Corrigendum to Causation, Norms, and Cognitive Bias [Cognition 259 (2025) 106105].
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001544?dgcid=rss_sd_all)
-
-This is a corrigendum to the article "Causation, Norms, and Cognitive Bias" published in Cognition. The authors are issuing a correction due to a faulty appendix that was previously uploaded and have now made the correct appendix available.
-
 ## Herding cats: children and adults infer collective decision speed from team size and diversity, but disagree about whether consensus strength matters more than team size
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0010027725001519?dgcid=rss_sd_all)
@@ -26,12 +19,6 @@ This ScienceDirect article preview summarizes a study on how children and adults
 [Source](https://www.sciencedirect.com/science/article/pii/S0010027725001593?dgcid=rss_sd_all)
 
 This is an article preview from ScienceDirect for a 2025 Cognition journal article titled "Context-dependent role of confidence in information-seeking." The article explores the relationship between decision confidence and information seeking in perceptual tasks, specifically how manipulations that induce under- or overconfidence affect the tendency to seek more information before making a choice. Two experiments examined how comparative feedback and training difficulty influence information seeking, finding that the link between confidence and information seeking is more complex than previously thought, driven by beliefs about past performance and perceived task difficulty. The authors make their data and analysis code openly available.
-
-## 'Influential Papers' Feed - 2 New Papers
-
-[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/l0dn7hvz1o7x3915skd4.html)
-
-This is a weekly Semantic Scholar digest tailored to the user's "Influential Papers" feed. It highlights two papers: one reviewing neuroscience-inspired frameworks for machine consciousness, and another analyzing AI (specifically LLMs) through a systems-theoretical lens, examining their potential as autopoietic systems. The email provides links to save the papers, mark them as irrelevant, and view more papers from the week. It also includes information about Semantic Scholar's TLDR feature, social media links, a newsletter signup, and options to manage alerts or unsubscribe.
 
 ## Statistical learning in spelling and reading
 
@@ -68,10 +55,4 @@ This is an article preview from ScienceDirect about a study titled "Rethinking p
 [Source](https://www.sciencedirect.com/science/article/pii/S0010027725000654?dgcid=rss_sd_all)
 
 This ScienceDirect article investigates how people make probability judgments, focusing on mental sampling models. The researchers introduce a novel "Event Ranking Task" where participants rank the likelihood of events (A, not-A, B, not-B). The study derives and tests qualitative predictions from direct sampling models, finding that people's rankings often violate logical probability rules in predictable ways, supporting the idea that mental sampling underlies probability judgments. The study also shows that people's judgments at the trial level may not reflect the true relationships among the events’ underlying probabilities.
-
-## Impact of trait anxiety on computational mechanism of approach-avoidance conflict decision
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2519665?ai=2a7&mi=3dg6fv&af=R)
-
-Taylor & Francis Online is a platform for accessing journals and ebooks across various subjects. It allows users to browse publications, publish their research, search for content, and manage their account for personalized research alerts and access. A recent research article is featured which deals with the impact of trait anxiety on approach-avoidance conflict decision, it also discusses the computational model that was used to come to the results.
 
