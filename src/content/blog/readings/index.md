@@ -1,39 +1,41 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-07-06
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## A rational process model of reasoning causally with continuous variables
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001337?dgcid=rss_sd_all)
 
-## Constructing language: a framework for explaining acquisition
+This is a preview of an article titled "A rational process model of reasoning causally with continuous variables" published in the journal Cognition. The study investigates how people make causal inferences with continuous variables, specifically in common cause networks with both generative and inhibitory relationships. The research extends the "mutation sampler" model, a rational process model, to explain observed errors in human causal reasoning with continuous variables, finding similar error patterns as with binary variables. The study involves participants performing causal reasoning tasks while pretending to be physiologists studying biological processes. The results suggest that the sampling process of the mutation sampler has a quantitative effect on causal inferences.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## Understanding of exact equality emerges after and builds on symbolic number knowledge 1
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001660?dgcid=rss_sd_all)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+This ScienceDirect article investigates the relationship between symbolic number knowledge and understanding of exact equality in preschool children. The study replicates and extends previous findings, suggesting that understanding exact equality emerges after and builds upon symbolic number knowledge. The research utilized set-matching tasks and assessments of executive functions, finding that children with a better grasp of symbolic numbers (CP-knowers) performed better on set-matching tasks, even when controlling for age and executive function skills.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## And yet, the hippocampus codes conjunctively
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00159-7?rss=yes)
 
-## Iterated Learning
+This is a webpage for the "Trends in Cognitive Sciences" journal. It includes login/registration options, access to the current article ("And yet, the hippocampus codes conjunctively"), article information, related articles, journal navigation, and cookie consent information. The article is a letter discussing hippocampal coding and addresses issues like single-trial reinstatement, episode-specific neurons, repeated-story paradigms, and concept cells.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Violations of social expectations enhance infants' learning
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001672?dgcid=rss_sd_all)
 
-## Supervenience
+This ScienceDirect article, "Violations of Social Expectations Enhance Infants' Learning," published in Cognition, explores whether infants learn better when they observe violations of social expectations, similar to how they learn from surprising physical events. The study presents three experiments involving 16- to 19-month-old infants, showing that surprising social behaviors, like unexpected emotional reactions or changes in preference, do enhance learning about both the objects and the people involved.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## Looking deeper into the algorithms underlying human planning
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00152-4?rss=yes)
+
+This document is a scientific article titled "Looking deeper into the algorithms underlying human planning" published in Trends in Cognitive Sciences. It discusses computational frameworks for modeling human planning, focusing on decision tree search, normative models for efficient resource use, and applications of AI in understanding sequential decision-making. It covers topics like experimental probes for heuristics, artificial neural networks, and the roles of various brain regions in planning. It is available for purchase and includes references, a glossary, figures, and related articles. There is also information about Cell Press journals, publishing options, and website navigation.
+
