@@ -1,39 +1,59 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-07-13
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## The psychological link between decisions and communicative behavior based on verbal probabilities
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001702?dgcid=rss_sd_all)
 
-## Constructing language: a framework for explaining acquisition
+This ScienceDirect article preview introduces a study on the psychological link between decisions and communicative behavior related to verbal probabilities. The study proposes a Decision by Belief Sampling model, integrating the Decision by Sampling model and the reference point hypothesis, to explain how listeners infer speaker beliefs and make decisions based on those beliefs, connecting decision-making with communication strategies. The research includes four experiments examining decision-making and communication choices related to probabilistic information.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## Psychedelic Science 2025
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://zencastr.com/z/MRLPteyb)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+The CogNation podcast episode "Psychedelic Science 2025" features Joe Hardy reporting from the Psychedelic Science conference in Denver. He discusses the positive but somewhat muted vibe compared to 2023, attributing it to recent negative news like the FDA's rejection of MDMA for PTSD treatment due to ethical violations and study design issues. Joe interviews Balasz Szigeti about his research on the "Placebo Suppression Effect" in psychedelic trials, where the control group improves less than expected due to participants knowing they didn't receive the psychedelic. Balasz suggests using a Zelen design to mitigate this effect. He also mentions that Compass Pathways is about to release their phase three trial data. The episode concludes by highlighting the variety of attendees at the conference, from researchers to practitioners, and encouraging listeners to subscribe and provide feedback.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## Deaf homesigners can create the foundations of phonetics and phonology without an adult linguistic model
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001738?dgcid=rss_sd_all)
 
-## Iterated Learning
+This ScienceDirect article explores whether deaf children developing homesign systems can create foundations of phonetics and phonology, specifically discreteness of forms and duality of patterning. The study compares handshapes in homesigns of deaf children to co-speech gestures of their hearing mothers. The findings suggest that homesigners can introduce meaning-independent discrete forms into their communication, a resilient property of language, while handshape discreteness in mothers' co-speech gesture varied depending on the meaning.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Decoding the temporal dynamics of numerical semantics: Early cardinal activation and the critical role of ordinal processing in spatial-numerical associations
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001726?dgcid=rss_sd_all)
 
-## Supervenience
+This ScienceDirect article investigates the temporal dynamics of cardinal and ordinal semantics processing in spatial-numerical associations (SNAs) using a dual-choice go/nogo paradigm with ERP and MVPA techniques. Two experiments were conducted, where the parity judgment task is linked to cardinal semantics, while the memory sequence detection serves to probe ordinal semantics. The behavioral results revealed that the SNARC effect was observed only in Experiment 1, whereas the ordinal position effect emerged consistently across both experiments.  The results suggest that SNAs are primarily driven by the order of numbers constructed in working memory rather than spatial quantity. The MVPA results demonstrated that cardinal semantics are processed before ordinal semantics, with cardinal semantics decoding accuracy significantly higher than chance at 112 ms post-stimulus.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## Varieties of childhood
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://manyminds.libsyn.com/varieties-of-childhood)
+
+This is a navigation menu and podcast episode description for "Many Minds," a podcast exploring diverse forms of intelligence. The menu provides links to "About," "Episodes" (including categories and archives dating back to 2020), and other pages. The episode highlighted, "Varieties of Childhood," features a conversation with two researchers discussing cross-cultural differences in childhood and developmental psychology, followed by notes, links, and recommendations related to the topic. The podcast is a project of the Diverse Intelligences Summer Institute.
+
+## Helen Steward:  Paul Snowdon on Animalism
+
+[Source](https://philosophyofbrains.com/2025/07/10/helen-steward-paul-snowdon-on-animalism.aspx)
+
+The Brains Blog is a leading forum since 2005 for discussions in the philosophy and science of mind, featuring articles, podcasts, a calendar of events, and calls for papers. It also has a section highlighting books and featured scholars. It also provides information about the Minds Online Conference. The blog includes archives dating back to 2005. A recent post by Helen Steward discusses Paul Snowdon's work on animalism, a theory of personal identity.
+
+## A Fundamental Unit Of Intelligence
+
+[Source](https://www.youtube.com/watch?v=Dykkubb-Qus)
+
+Artem Kirsanov, a neuroscience PhD student at Harvard, explores Jeff Hawkins' "Thousand Brains Theory" to explain how the brain's cortex generates intelligence. The video examines cortical columns as sensorimotor systems, their six neuronal layers, and how they build predictive models of the world through sensation, movement, and consensus voting. The video is sponsored by Brilliant, offering a free trial and discount. Further reading and references are provided for those interested in diving deeper into the science.
+
+## Charles Jansen:  Snowdon on Personal Identity
+
+[Source](https://philosophyofbrains.com/2025/07/09/charles-jansen-snowdon-on-personal-identity.aspx)
+
+Philosophyofbrains.com is a blog and forum dedicated to the philosophy and science of mind, active since 2005. It features articles, a podcast, a calendar of events, and resources for contributors and scholars. The site also includes information on symposia, books, calls for papers, and a Minds Online Conference. The blog post provided discusses Charles Jansen's perspective on Paul Snowdon's arguments for animalism (the view that humans are identical to biological organisms) in the context of personal identity, concluding that while Snowdon offers strong considerations, he doesn't definitively overturn alternative views like those arising from brain transplant thought experiments.
+
