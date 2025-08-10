@@ -1,39 +1,77 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-08-10
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## Competition for selection drives the nature of bilingual language control: Picture naming, but not reading aloud, triggers global inhibition of the dominant language
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002008?dgcid=rss_sd_all)
 
-## Constructing language: a framework for explaining acquisition
+This is an article preview from ScienceDirect about a study investigating bilingual language control in Spanish-English bilinguals. The study compares picture naming and reading aloud tasks to understand how competition for selection between languages affects control mechanisms. The key finding is that picture naming, unlike reading aloud, triggers global inhibition of the dominant language, suggesting that language control mechanisms adapt based on task demands and the level of competition between languages. The study also explores switch costs and repetition effects in both tasks.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## 'Influential Papers' Feed - 4 New Papers
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/aya2dy5v93jeo56j9jly.html)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+This is a weekly digest from Semantic Scholar, dated July 29 - August 4, featuring new papers related to a user's saved "Influential Papers" feed. It includes titles, authors, summaries (TLDRs), and links to save/mark as irrelevant for papers on explainability in AI, assumptions in consciousness, engineering sentience, and modeling thought in time. It also provides links to view more papers, manage alerts, unsubscribe, and access Semantic Scholar's newsletter and social media.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## Addressing misperceptions takes more than combating fake news
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00182-2?rss=yes)
 
-## Iterated Learning
+Combating misinformation requires moving beyond "fake news" to understand the broader origins of misperceptions and their behavioral consequences. Research should focus on elite-driven falsehoods, accurate-but-misleading content, and the impact of misperceptions on behavior, while also re-evaluating existing interventions.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Dyadic learning shapes gaze-mediated social attentional orienting
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002203?dgcid=rss_sd_all)
 
-## Supervenience
+This ScienceDirect article preview summarizes a study on how "dyadic learning" (learning in pairs with feedback) affects social attentional orienting, specifically gaze-cuing. The research found that a social context where a partner appears to respond faster to gazed-at locations enhances the gaze-cuing effect. This enhancement is specific to social cues (gaze) and doesn't occur with non-social cues (arrows). The study suggests that social attentional orienting is malleable and influenced by social learning.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## When metrics matter: How reasoning in different metrics impacts judgments of uncertainty
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002173?dgcid=rss_sd_all)
+
+This is a preview of a ScienceDirect article from the journal *Cognition* titled "When metrics matter: How reasoning in different metrics impacts judgments of uncertainty." The study investigates how using different, but equivalent, metrics (e.g., feet vs. meters) affects people's estimates of uncertainty. The authors hypothesize and test three regularities: that people believe risk scales with magnitude, are insensitive to unit changes, and assume symmetric distributions, leading to inconsistencies in uncertainty judgments across different metrics. They present six experiments testing these hypotheses, focusing on additive, multiplicative, and inverse transformations of metrics.
+
+## Tuning the brain: musical expertise modulation on the shared mechanism of language and music
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/23273798.2025.2533873?af=R)
+
+Musical expertise appears to reshape brain areas shared by both language and music processing, suggesting a common neural mechanism is modulated by musical training.
+
+## Eliciting social approach-avoidance conflict within a novel experimental paradigm: psychometric and computational evidence with a successful pre-registered replication
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2533382?ai=2a7&mi=3dg6fv&af=R)
+
+This study developed a new experiment to induce social approach-avoidance conflict and successfully replicated the findings in a pre-registered study. The results were analyzed using both psychometric and computational methods.
+
+## Children's detection of online misinformation
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002197?dgcid=rss_sd_all)
+
+This ScienceDirect article preview summarizes a study on children's ability to detect online misinformation. The study found that children's ability to differentiate fake news from real news correlated with their cognitive reflection skills but was not improved by instruction, which instead made them more skeptical of all news. Similar findings were observed in adults, suggesting that cognitive reflection aids in evaluating online news.
+
+## Learning to understand an unfamiliar talker: Testing distributional learning as a model of rapid adaptive speech perception
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001350?dgcid=rss_sd_all)
+
+This is a ScienceDirect article from the journal *Cognition*, Volume 265, December 2025, titled "Learning to understand an unfamiliar talker: Testing distributional learning as a model of rapid adaptive speech perception." The article investigates how listeners adapt to unfamiliar accents by exposing US English speakers to shifted phonetic distributions and modeling their perception using Bayesian methods. The study finds that distributional learning models fit the data well but also identifies previously unrecognized constraints on adaptivity. The data and code are available on OSF. The article is open access under a Creative Commons license.
+
+## How to make artificial agents more like natural agents
+
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00184-6?rss=yes)
+
+Making AI more human-like could benefit from studying the evolution of biological agents, specifically how increasingly complex agentive architectures developed in animals leading to human's shared agency through language.
+
+## The dissociable effects of humorous reappraisal on free recall and recognition/implicit memory
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2467079?ai=2a7&mi=3dg6fv&af=R)
+
+Humorous reappraisal impacts explicit (free recall and recognition) and implicit memory differently.
+
