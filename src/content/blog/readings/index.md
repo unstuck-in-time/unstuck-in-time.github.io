@@ -1,39 +1,47 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-08-17
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## A question of perspective: Target- vs. perceiver-specific dimensions of mind perception
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001714?dgcid=rss_sd_all)
 
-## Constructing language: a framework for explaining acquisition
+This ScienceDirect article explores the dimensions of mind perception, investigating why previous research has produced mixed findings. The study distinguishes between target-specific dimensions (how targets are perceived) and perceiver-specific dimensions (how perceivers differ in their perceptions). The findings suggest that target-specific dimensions align with Agency-Experience, while perceiver-specific dimensions align with Body-Heart-Mind. The research also explores how these dimensions relate to demographics, personality, and beliefs. Ultimately, the study proposes a novel unifying framework to resolve inconsistencies in mind perception research, emphasizing the importance of considering both target and perceiver perspectives.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## 'Influential Papers' Feed - 8 New Papers
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/mek4xyym53jlvrgsgqta.html)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+This is a weekly digest from Semantic Scholar featuring papers related to "Influential Papers". The email highlights several recent publications on topics including artificial consciousness, emergent abilities in LLMs, brain-inspired AGI, evolutionary trajectories of consciousness, the social aspect of consciousness, philosophical implications of recursive AI, the derivability gap in understanding consciousness, and the relationship between psychology and AI. Each paper includes a brief TLDR summary and options to save or mark as not relevant.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## Role of contingency in the effects of appetitive and aversive motivation on emotional distraction
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2542920?ai=2a7&mi=3dg6fv&af=R)
 
-## Iterated Learning
+The effect of rewarding or punishing stimuli on emotional distraction depends on **contingency**: whether the stimuli are reliably associated with the distracting information.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Discourse genre predicts demonstrative use in text: Experimental evidence from Dutch and Mandarin
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002252?dgcid=rss_sd_all)
 
-## Supervenience
+This ScienceDirect article in the journal *Cognition* (December 2025) presents an experimental study in Dutch and Mandarin exploring how discourse genre (narrative vs. expository) influences writers' demonstrative use (e.g., "this" vs. "that"). The study found that discourse genre is a significant predictor of demonstrative choice, with expository texts eliciting more proximal demonstratives and narrative texts eliciting more distal demonstratives. This effect was observed even in Mandarin, which has a strong preference for proximal demonstratives. The study suggests that writers mentally position referents in relation to themselves or the reader based on the text's genre.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## Does criticism in a foreign accent hurt less?
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://www.tandfonline.com/doi/full/10.1080/23273798.2025.2547350?af=R)
+
+Taylor & Francis Online is a platform for browsing and publishing journals and ebooks across a wide range of academic subjects. It offers open access options, author services, and resources for researchers, librarians, and editors. Users can register for free to receive content alerts, remote access, and save searches. The site also features an article on the effects of foreign accents on the perception of criticism.
+
+## BI 218 Chris Rozell: Brain Stimulation and AI for Mental Disorders
+
+[Source](https://braininspired.co/podcast/218/)
+
+Brain Inspired podcast episode 218 features Chris Rozell discussing his work on using brain stimulation and AI to treat mental disorders, specifically treatment-resistant depression. Rozell's research involves using brain recordings and machine learning to predict the effectiveness of deep brain stimulation in patients, aiming to personalize and improve treatment. The podcast also covers the broader intersection of neurotech and cognitive science, interdisciplinary research, and Rozell's personal background. Listeners can support the show on Patreon for full episodes and community access.
+
