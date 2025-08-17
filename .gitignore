@@ -29,3 +29,5 @@ __pycache__/
 .obsidian/
 
 _templates/
+
+copilot-custom-prompts/
