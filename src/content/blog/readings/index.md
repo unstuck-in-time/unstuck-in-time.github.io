@@ -1,39 +1,53 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-08-31
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## 'Influential Papers' Feed - 1 New Paper
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://kill-the-newsletter.com/feeds/ds7kuqx2r8383zq9o3d1/entries/3c52ony8bp4ob0jvtyai.html)
 
-## Constructing language: a framework for explaining acquisition
+This is a weekly digest from Semantic Scholar, dated August 19-25, highlighting papers from a user's "Influential Papers" feed. It features a paper titled "How Causal Abstraction Underpins Computational Explanation," summarizing that causal abstraction provides a useful lens for understanding computational implementation. The email includes options to save the paper, mark it as not relevant, and view more papers. It also explains what "TLDR" means and provides links to Semantic Scholar's social media, newsletter sign-up, alert management, and unsubscribe options.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## Are metabolic costs needed to explain cognitive fatigue?
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00210-4?rss=yes)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+Pessiglione et al.'s MetaMotiF framework proposes that cognitive fatigue arises from a combination of motivational and metabolic factors, explaining why sustained cognitive effort becomes increasingly difficult. It suggests cognitive exertion, like physical exercise, has real costs that contribute to the feeling of exhaustion.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## The integrated control of decision and movement vigor
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00185-8?rss=yes)
 
-## Iterated Learning
+Decision-making and movement vigor are typically co-regulated, likely through signal-to-noise ratio modulation in sensorimotor areas. However, this coupling can be decoupled via inhibitory control involving frontal areas and the basal ganglia, allowing for flexible behavior optimization when co-regulation compromises utility.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Awake reactivation is not a uniform process
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00207-4?rss=yes)
 
-## Supervenience
+Wakeful memory reactivation is complex, involving both conscious and unconscious processes. Recognizing these different types of reactivation may resolve inconsistencies in research on memory consolidation during wakefulness.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## The interplay between language and emotion: introduction to the special issue
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2549966?ai=2a7&mi=3dg6fv&af=R)
+
+This special issue explores the complex relationship between language and emotion.
+
+## The interplay between language and emotion: a narrative review
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2549965?ai=2a7&mi=3dg6fv&af=R)
+
+Taylor & Francis Online is a platform for accessing journals, books, and publishing resources across a wide range of academic subjects. It offers browsing, searching, and publishing options, including open access, and provides tools for authors such as journal suggesters and calls for papers. Users can register for a free account to receive content alerts, remote access, save searches, and export results. The platform also features a specific article on the interplay between language and emotion, providing access to the full article, figures, references, and metrics.
+
+## BI 219 Xaq Pitkow: Principles and Constraints of Cognition
+
+[Source](https://braininspired.co/podcast/219/)
+
+This is a webpage for episode 219 of the Brain Inspired podcast, featuring Xaq Pitkow discussing the principles and constraints of cognition. The page provides links to listen to the episode on various platforms (Apple Podcasts, Spotify, Stitcher, RSS) and options to download, share, and embed it. It also summarizes the episode's key topics, including inverse rational control, probabilistic graph networks, how brains use probabilities, and ecological neuroscience. Furthermore, it highlights related papers and links to Xaq Pitkow's lab. The page includes information about supporting the podcast, email alerts, and links to privacy policies and inclusivity statements.
+
