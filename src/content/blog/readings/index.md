@@ -1,39 +1,77 @@
 ---
 title: Current Readings
 description: Relevant articles from my RSS feeds summarized by AI.
-date: 2025-06-29
+date: 2025-10-12
 tags:
   - about
 ---
 
 This is a weekly newsletter based on my RSS feeds. I have an LLM pipeline select the most relevant articles from my feeds (based on the about page of this website) and summarize them. 
 
-## What will society think about AI consciousness? Lessons from the animal case
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00147-0?rss=yes)
+## Dense longitudinal neuroimaging reveals individual brain change trajectories
 
-This document is a scientific article titled "What will society think about AI consciousness? Lessons from the animal case," published in Trends in Cognitive Sciences. The article explores how societal attitudes towards AI consciousness might be shaped by parallels with attitudes towards animal consciousness, while also considering the key differences between AI and animals that could lead to divergent views. It advocates for interdisciplinary research to understand the possibility of AI consciousness, public attitudes towards it, and the ethical and political norms required to interact with potentially conscious AI systems. It emphasizes the need to start preparing now for the societal implications of AI consciousness.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00244-X?rss=yes)
 
-## Constructing language: a framework for explaining acquisition
+Dense longitudinal neuroimaging (DLN) is an emerging approach that samples brain structure and function frequently over short periods to precisely track individual brain change trajectories. This allows for the identification of nonlinear patterns and provides a more mechanistic understanding of cognitive development and learning, such as the motor system's role in visual development.
 
-[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?rss=yes)
+## OpenAI Agent Builder , Gemini revamps app , Jules API 
 
-This document is a research article about language acquisition. The article proposes a constructivist framework for understanding how children learn language, emphasizing structure-building mechanisms, multimodal input, active learning, and dynamic developmental change. It argues that this framework, incorporating these components, provides a valuable lens for developing unified explanations of language acquisition, and discusses how this framework differs from nativist and empiricist theories. The article also touches on computational models, including large language models, and their applicability to human language acquisition.
+[Source](https://tldr.tech/ai/2025-10-06)
 
-## The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory
+This TLDR AI newsletter for October 6, 2025, covers OpenAI's upcoming Agent Builder release, a potential redesign of the Gemini app, and OpenAI's acquisition of the AI-powered finance app Roi. Other highlights include potential delays for OpenAI's first device with Jony Ive, analysis of table formats for LLMs, a comparison of Nvidia's investments to the telecom bubble, and the development of AI cyber defenders. The newsletter also features engineering and research updates, including a language model fine-tuning API and a novel quantization method for LLMs. Finally, it mentions OpenAI's search for Stargate data center sites and other miscellaneous AI news.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0010027725001647?dgcid=rss_sd_all)
+## The age of social AI
 
-This ScienceDirect page is an article preview for a study published in the journal *Cognition* (October 2025). The article, "The effect of degree of prediction error elicited by retrieval on the reconsolidation of fear memory," investigates how different manipulations of prediction error (PE) during memory retrieval affect fear memory reconsolidation. The study uses a reinforcement learning model to quantify PE and relates it to skin conductance responses. The findings suggest that the overall degree of PE elicited during retrieval, a combination of size, type, and number, influences the reconsolidation process. The study aims to clarify the role of PE in the retrieval-extinction paradigm to promote clinical translation.
+[Source](https://sites.libsyn.com/248363/the-age-of-social-ai)
 
-## Iterated Learning
+This podcast episode explores the rise of "social AI," including AI therapists, companions, and even griefbots. It features Dr. Henry Shevlin, an AI ethicist, discussing the potential societal impact of these technologies, both positive and negative, including risks to social skills and potential benefits for connection and support. The conversation touches on ethical considerations, recent tragic cases involving chatbots, and the possibility of regulation.
 
-[Source](https://oecs.mit.edu/pub/boh416wu)
+## Sensory reformatting for a working visual memory
 
-This page from the Open Encyclopedia of Cognitive Science defines and discusses "Iterated Learning," a process where individuals learn from others who learned the same way. It highlights that this process, often studied through transmission chains, is influenced by biases in learning and reproduction, ultimately shaping the systems of knowledge or behavior that emerge. The article explores the history, core concepts, experimental applications across various domains (language, music, social stereotypes), current debates, and broader connections to fields like social learning and cultural evolution.
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00245-1?rss=yes)
 
-## Supervenience
+Visual working memory (WM) sustains visual representations by engaging early sensory cortex. Recent evidence suggests that these representations are not static copies of sensory input, but actively transform into task-relevant formats optimized for behavior. Visual cortex thus acts as a flexible workspace for WM, bridging perception and action.
 
-[Source](https://oecs.mit.edu/pub/52v2eei4)
+## Teasing apart the impact of different forms of overlap on cross-linguistic structural priming
 
-This is an entry on "Supervenience" from the Open Encyclopedia of Cognitive Science. Supervenience describes a relationship where one phenomenon depends on another, such that duplicating the base states would also duplicate the higher-level states. It was initially used in ethics and later in philosophy of mind, however, while useful for expressing determination claims, supervenience doesn't fully capture the underlying reasons or mechanisms behind these relationships. It can occur without actual determination and is being superseded by the concept of "grounding." The article discusses core concepts, controversies, and broader connections to other level-linking notions in philosophy and science.
+[Source](https://www.tandfonline.com/doi/full/10.1080/23273798.2025.2558640?af=R)
+
+The study investigates how different types of linguistic overlap between languages influence cross-linguistic structural priming.
+
+## The impact of emotional face distractors on working memory performance: a meta-analysis of behavioural studies
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568559?ai=2a7&mi=3dg6fv&af=R)
+
+A meta-analysis of behavioral studies shows that emotional faces can negatively impact working memory performance.
+
+## Knowing what I dont know  belief in conspiracy theories relates to lower metacognitive sensitivity: a signal detection theoretic approach
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/20445911.2025.2563541?ai=2m1&mi=3dg6fv&af=R)
+
+This study suggests a link between belief in conspiracy theories and reduced metacognitive sensitivity, meaning people who believe in conspiracy theories may be less aware of the limits of their own knowledge.
+
+## Spiky anger, round peace: examining valence, arousal, and linguistic associations in emotion-eliciting concepts
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2566304?ai=2a7&mi=3dg6fv&af=R)
+
+This paper likely explores how words that evoke different emotions are associated with specific characteristics like valence (positive/negative), arousal (intensity), and linguistic features. The "spiky anger, round peace" suggests a contrast in these features between negative and positive emotions.
+
+## Strategic reasoning under pressure: Testing heuristics in higher-order theory of mind
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027725002720?dgcid=rss_sd_all)
+
+This ScienceDirect article, "Strategic reasoning under pressure: Testing heuristics in higher-order theory of mind," by Gregory N. Stanley, published in Cognition, explores how people make decisions in complex social situations when their cognitive resources are limited. The study tests two models: the Blind Spot Model (BM), which suggests people ignore distant possibilities, and the Near Sight Model (NM), which proposes people approximate those possibilities probabilistically. Using a new online platform called the _Morality Game_ and time-pressured sequential-choice games, the results support the NM, indicating that individuals use probabilistic heuristics rather than ignoring future states entirely when higher-order reasoning is difficult. The study also explores implications for real-world social reasoning and offers a novel methodology using diagnostic games to study theory of mind.
+
+## More than incurious: the development of deliberate ignorance
+
+[Source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00254-2?rss=yes)
+
+As children develop, they gain the cognitive abilities and experience environmental changes that make "deliberate ignorance" (choosing not to know) an increasingly viable and attractive strategy.
+
+## Psychopathy Unmasked, The Hypocrisy Trap, and more | New books in cognitive science, neuroscience, and psychology
+
+[Source](https://kill-the-newsletter.com/feeds/38e64wkp9h1pgiw8fsk0/entries/4oqzbxel41vkhyo15hhp.html)
+
+This email from MIT Press advertises new and upcoming books in psychology, neuroscience, and cognitive science, including excerpts, reviews, and related features. Featured titles include works on algorithms, hypocrisy, the idealized mind, the human hand, creative intelligence, psychopathy, biological autonomy, and the unconscious. It also highlights the Open Encyclopedia of Cognitive Science.
+
